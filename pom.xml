@@ -5,8 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.twitter</groupId>
   <artifactId>jsr166e</artifactId>
+  <name>JSR166e</name>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <url>http://github.com/twitter/jsr166e</url>
   <description>JSR166e</description>
 
