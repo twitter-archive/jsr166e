@@ -6,7 +6,7 @@
   <groupId>com.twitter</groupId>
   <artifactId>jsr166e</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <url>http://github.com/twitter/jsr166e</url>
   <description>JSR166e</description>
 
@@ -31,8 +31,8 @@
   </developers>
 
   <properties>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
     <encoding>UTF-8</encoding>
   </properties>
 
