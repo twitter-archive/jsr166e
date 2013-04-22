@@ -7,6 +7,8 @@ At the moment, we only these two files:
 * LongAdder.java 
 * Striped64.java
 
+JSR166e is compiled with Java 6.
+
 ## License
 
 Licensed under the CC0 1.0: http://creativecommons.org/publicdomain/zero/1.0/
